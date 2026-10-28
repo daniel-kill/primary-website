@@ -10,11 +10,16 @@ Explore all repositories on GitHub: [**github.com/daniel-kill?tab=repositories**
 
 | Repository | Focus / Stack | Description |
 |---|---|---|
+| [**Sunfire**](https://github.com/daniel-kill/Sunfire) | Go 1.24 / discordgo / systemd | Resilient, autonomous Discord bot featuring real-time stream (Twitch, Kick), video (YouTube), deals, and Hermes AI tips notification feeds with system telemetry. |
+| [**LLMForge**](https://github.com/daniel-kill/LLMForge) | Python 3 / Prompt Toolkit / Rich | Terminal forge & interactive multi-model CLI console connecting to OpenRouter for live markdown streaming, token metrics, and instant model switching. |
+| [**cloudflare-api-lab**](https://github.com/daniel-kill/cloudflare-api-lab) | Node.js | Interactive terminal laboratory for exploring Cloudflare Workers AI (LLMs, text embeddings, generative vision) and Edge Cloud Platform services. |
 | [**devpulse**](https://github.com/daniel-kill/devpulse) | Python 3 / Typer / Rich | High-performance CLI telemetry utility, workspace git auditing, and GPG security verification. |
 | [**secret-sentinel**](https://github.com/daniel-kill/secret-sentinel) | Python 3 | High-throughput secrets, API tokens, and credentials security scanner using Shannon entropy analysis with CLI TUI. |
 | [**curio-byte**](https://github.com/daniel-kill/curio-byte) | Node.js / discord.js / SQLite / Docker | Modular multi-purpose Discord bot with AI integrations, interactive slash commands, automated backups, and administrative tools. |
+| [**bloodbyte**](https://github.com/daniel-kill/bloodbyte) | JavaScript / Canvas / Web Audio | Retro gothic vampire arcade maze runner built with vanilla JavaScript, HTML5 Canvas, and Web Audio API—playable in modern web browsers. |
 | [**games**](https://github.com/daniel-kill/games) | PowerShell 7 | Terminal games, Scott Adams-inspired retro text adventures (including Dracula 1777), and simulations. |
-| [**portfolio-projects**](https://github.com/daniel-kill/portfolio-projects) | C# (.NET 8), Node.js, PowerShell, Bash | Modular showcase of developer utilities and automation tools. |
+| [**production-website**](https://github.com/daniel-kill/production-website) | PHP 8.3 / MySQL / Hostinger CI/CD | Source code powering [danielkill.online](https://danielkill.online)—featuring semantic HTML5/CSS3, MySQL telemetry, and the playable Retro Arcade Hub. |
+| [**portfolio-projects**](https://github.com/daniel-kill/portfolio-projects) | C# (.NET 8), Node.js, PowerShell, Bash | Modular showcase of standalone developer utilities and system automation tools. |
 | [**primary-website**](https://github.com/daniel-kill/primary-website) | HTML5 / CSS3 / Vanilla JS | Personal portfolio website and showcase hosted on Cloudflare Pages. |
 | [**daniel-kill**](https://github.com/daniel-kill/daniel-kill) | Markdown | GitHub profile configuration and bio overview. |
 
